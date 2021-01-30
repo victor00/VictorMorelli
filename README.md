@@ -1,7 +1,9 @@
 ![header](https://github.com/victor00/VictorMorelli/blob/main/githubslogan.jpg)
 
 
-## Connect with me:
+## Hi there!  :love_you_gesture:
+My name is ~~Antônio Victor Ribeiro Morelli~~ (too long) aka Victor Morelli and I'm a software developer. I'm from Brazil, living in São Paulo and currently improving my skills.
+### You can connect with me:
 
 <p>
   <a href="https://github.com/victor00">
