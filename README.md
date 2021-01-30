@@ -68,6 +68,7 @@
 ### Database
 
 <code>![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)</code> &nbsp;&nbsp;
+<code>![JSON](https://img.shields.io/badge/-JSON-white?style=flat-square&logo=json&logoColor=black)</code> &nbsp;&nbsp;
 
 ### Deploy
 
