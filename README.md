@@ -63,8 +63,6 @@
 <code>![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white)</code> &nbsp;&nbsp;
 <code>![Tensorflow](https://img.shields.io/badge/Tensorflow-white?style=flat&logo=tensorflow&logoColor=orange)</code> &nbsp;&nbsp;
 
-
-
 ### Database
 
 <code>![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)</code> &nbsp;&nbsp;
@@ -74,15 +72,13 @@
 
 <code>![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)</code> &nbsp;&nbsp;
 <code>![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)</code> &nbsp;&nbsp;
-<code></code> &nbsp;&nbsp;
-<code></code> &nbsp;&nbsp;
 
 ### Editors
 <code>![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)</code> &nbsp;&nbsp;
 
 
-<br><br>
-
+<br>
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ## &#x1f4c8; GitHub Stats
