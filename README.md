@@ -1,8 +1,16 @@
-![header](https://github.com/victor00/VictorMorelli/blob/main/githubslogan.jpg)
-
 
 ## Hello World!  :love_you_gesture:
 My name is ~~Antônio Victor Ribeiro Morelli~~ (too long) aka Victor Morelli and I'm a software developer. I'm from Brazil, living in São Paulo and currently improving my skills.
+
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🎓 &nbsp; Graduated Computer Science at Mackenzie Presbyterian University.
+- 💼 &nbsp; Improving my skills everyday.
+- 🌱 &nbsp; Learning more about Machine Learning, Artificial Intelligence and Full Stack Web Development.
+- ✍️ &nbsp; Pursuing knowledge to make incredible dynamic apps.
+
+
 ### You can connect with me:
 
 <p>
