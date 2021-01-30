@@ -80,13 +80,13 @@
 
 
 ## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/victor00">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=victor00&show_icons=true&theme=vision-friendly-dark" />
-</a>
-
-<a href="https://github.com/victor00">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=victor000&show_icons=true&line_height=27&count_private=true&&theme=radical" alt="Victor's GitHub Stats" />
-</a>
+<p>
+  <a href="https://github.com/victor00">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=victor00&show_icons=true&theme=vision-friendly-dark" />
+  </a>
+  <a href="https://github.com/victor00">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=victor000&show_icons=true&line_height=27&count_private=true&&theme=vision-friendly-dark" alt="Victor's GitHub Stats" />
+  </a>
+</p>
 
 
