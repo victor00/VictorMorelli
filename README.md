@@ -44,22 +44,25 @@
 > Tools, languages, and other things that I like to work with.
 
 ### Frontend
+
 <code>![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)</code> &nbsp;&nbsp;
 <code>![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)</code> &nbsp;&nbsp;
 <code>![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)</code> &nbsp;&nbsp;
 
 ### Frameworks
+
 <code>![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)</code> &nbsp;&nbsp;
 <code>![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)</code> &nbsp;&nbsp;
 <code>![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)</code> &nbsp;&nbsp;
 
 # Languages
 
-
-<code>![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white)</code> &nbsp;&nbsp;
+<code>![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat&logo=javascript&logoColor=yellow)</code> &nbsp;&nbsp;
 <code>![Python](https://img.shields.io/badge/Python-white?style=flat&logo=python)</code> &nbsp;&nbsp;
 <code>![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat&logo=ruby&logoColor=red)</code> &nbsp;&nbsp;
-<code>![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat&logo=javascript&logoColor=yellow)</code> &nbsp;&nbsp;
+<code>![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white)</code> &nbsp;&nbsp;
+<code>![Tensorflow](https://img.shields.io/badge/Tensorflow-white?style=flat&logo=tensorflow&logoColor=orange)</code> &nbsp;&nbsp;
+
 
 
 ### Database
