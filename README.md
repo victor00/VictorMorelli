@@ -59,6 +59,7 @@
 <code>![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white)</code> &nbsp;&nbsp;
 <code>![Python](https://img.shields.io/badge/Python-white?style=flat&logo=python)</code> &nbsp;&nbsp;
 <code>![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat&logo=ruby&logoColor=red)</code> &nbsp;&nbsp;
+<code>![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat&logo=javascript&logoColor=yellow)</code> &nbsp;&nbsp;
 
 
 ### Database
