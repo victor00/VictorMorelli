@@ -12,7 +12,11 @@
 - **Hobbies :** Books :books: | Music :headphones:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=victor00" alt="victor00" /> </p>
+<p align="left"> 
+  <a href="https://github.com/victor00">
+    <img src="https://komarev.com/ghpvc/?username=victor00" alt="page views" />
+  </a> 
+</p>
 
 
 ### You can connect with me:
