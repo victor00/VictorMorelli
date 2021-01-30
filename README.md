@@ -43,11 +43,43 @@
 <h2 align="left" id="macropower-tech">Technologies & Tools</h2>
 > Tools, languages, and other things that I like to work with.
 
+### Frontend
+<code>![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)</code> &nbsp;&nbsp;
+<code>![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)</code> &nbsp;&nbsp;
+<code>![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)</code> &nbsp;&nbsp;
+
+### Frameworks
+<code>![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)</code> &nbsp;&nbsp;
+<code>![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)</code> &nbsp;&nbsp;
+<code>![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)</code> &nbsp;&nbsp;
+
+# Languages
+
+
+<code>![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white)</code> &nbsp;&nbsp;
+<code>![Ruby](https://img.shields.io/badge/Ruby?style=flat&logo=ruby&logoColor=white)</code> &nbsp;&nbsp;
+
+
+### Database
+
+<code>![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)</code> &nbsp;&nbsp;
+
+### Deploy
+
+<code>![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)</code> &nbsp;&nbsp;
+<code>![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)</code> &nbsp;&nbsp;
+<code></code> &nbsp;&nbsp;
+<code></code> &nbsp;&nbsp;
+
+### Editors
+<code>![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)</code> &nbsp;&nbsp;
+
+
 <br><br>
 
 
 
-
+## &#x1f4c8; GitHub Stats
 
 ![Victor Morelli's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor00&show_icons=true&theme=vision-friendly-dark)
 
