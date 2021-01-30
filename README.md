@@ -1,6 +1,6 @@
 
-<h1 align="center"> Hello World!  :love_you_gesture: </h1>
-<h1 align="center"> My name is ~~Antônio Victor Ribeiro Morelli~~ (too long) aka Victor Morelli and I'm a software developer. I'm from Brazil, living in São Paulo and currently improving my skills.</h1>
+<h3 align="center"> Hello World!  :love_you_gesture: </h1>
+<h6 align="center"> My name is ~~Antônio Victor Ribeiro Morelli~~ (too long) aka Victor Morelli and I'm a software developer. I'm from Brazil, living in São Paulo and currently improving my skills.</h1>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
