@@ -33,9 +33,9 @@
 </p>
 
 <br><br>
-
-🔧 Technologies & Tools
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h2 align="left" id="macropower-tech">Technologies & Tools</h2>
+> Tools, languages, and other things that I like to work with.
 
 <br><br>
 
