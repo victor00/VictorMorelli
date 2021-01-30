@@ -1,7 +1,7 @@
 ![header](https://github.com/victor00/VictorMorelli/blob/main/githubslogan.jpg)
 
 
-## Hi there!  :love_you_gesture:
+## Hello World!  :love_you_gesture:
 My name is ~~Antônio Victor Ribeiro Morelli~~ (too long) aka Victor Morelli and I'm a software developer. I'm from Brazil, living in São Paulo and currently improving my skills.
 ### You can connect with me:
 
@@ -14,6 +14,9 @@ My name is ~~Antônio Victor Ribeiro Morelli~~ (too long) aka Victor Morelli and
   </a>
   <a href="https://www.kaggle.com/avrmvictor00">
     <img align="left" alt="Victor's Kaggle" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
+  </a>
+  <a href="https://www.hackerrank.com/victormorelli6">
+    <img align="left" alt="Victor's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
   </a>
 </p>
 
