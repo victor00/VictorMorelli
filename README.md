@@ -86,7 +86,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor00&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   </a>
   <a href="https://github.com/victor00">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=victor000&show_icons=true&line_height=27&count_private=true&&theme=vision-friendly-dark" alt="Victor's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=victor00&show_icons=true&line_height=27&count_private=true&&theme=vision-friendly-dark" alt="Victor's GitHub Stats" />
   </a>
 </p>
 
