@@ -8,7 +8,7 @@ My name is ~~Antônio Victor Ribeiro Morelli~~ (too long) aka Victor Morelli and
 - 🎓 &nbsp; Graduated Computer Science at Mackenzie Presbyterian University.
 - 💼 &nbsp; Improving my skills everyday.
 - 🌱 &nbsp; Learning more about Machine Learning, Artificial Intelligence and Full Stack Web Development.
-- ✍️ &nbsp; Pursuing knowledge to make incredible dynamic apps.
+- ✍️ &nbsp; Pursuing knowledge to make incredible dynamic apps, and an Open Source enthusiast.
 
 
 ### You can connect with me:
