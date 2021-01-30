@@ -10,6 +10,8 @@ My name is ~~Antônio Victor Ribeiro Morelli~~ (too long) aka Victor Morelli and
 - 🌱 &nbsp; Learning more about Machine Learning, Artificial Intelligence and Full Stack Web Development.
 - ✍️ &nbsp; Pursuing knowledge to make incredible dynamic apps, and an Open Source enthusiast.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=victor00" alt="victor00" /> </p>
+
 
 ### You can connect with me:
 
