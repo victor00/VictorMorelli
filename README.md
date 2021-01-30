@@ -81,7 +81,12 @@
 
 ## &#x1f4c8; GitHub Stats
 
-![Victor Morelli's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor00&show_icons=true&theme=vision-friendly-dark)
+<a href="https://github.com/victor00">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=victor00&show_icons=true&theme=vision-friendly-dark" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor00&langs_count=10&layout=compact)](https://github.com/victor00/github-readme-stats)
+<a href="https://github.com/victor00">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=victor000&show_icons=true&line_height=27&count_private=true&&theme=radical" alt="Victor's GitHub Stats" />
+</a>
+
 
