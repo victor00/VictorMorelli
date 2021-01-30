@@ -9,7 +9,7 @@
 - 💼 &nbsp; Improving my skills everyday.
 - 🌱 &nbsp; Learning more about Machine Learning, Artificial Intelligence, Deep Learning and Full Stack Web Development.
 - ✍️ &nbsp; Pursuing knowledge to make incredible dynamic apps, and an Open Source enthusiast.
-- **Hobbies :** Books :books: | Music :headphones:
+- **Hobbies :** Books :books: | Music :headphones
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <p align="left"> 
@@ -40,7 +40,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h2 align="left" id="macropower-tech">Technologies & Tools</h2>
+<h2 align="left">Technologies & Tools</h2>
 > Tools, languages, and other things that I like to work with.
 
 ### Frontend
@@ -57,7 +57,8 @@
 
 
 <code>![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white)</code> &nbsp;&nbsp;
-<code>![Ruby](https://img.shields.io/badge/Ruby?style=flat&logo=ruby&logoColor=white)</code> &nbsp;&nbsp;
+<code>![Python](https://img.shields.io/badge/Python-white?style=flat&logo=python)</code> &nbsp;&nbsp;
+<code>![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat&logo=ruby&logoColor=red)</code> &nbsp;&nbsp;
 
 
 ### Database
