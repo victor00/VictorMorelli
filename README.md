@@ -9,6 +9,7 @@
 - 💼 &nbsp; Improving my skills everyday.
 - 🌱 &nbsp; Learning more about Machine Learning, Artificial Intelligence and Full Stack Web Development.
 - ✍️ &nbsp; Pursuing knowledge to make incredible dynamic apps, and an Open Source enthusiast.
+- **Hobbies :** Books :books: | Music :headphones:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victor00" alt="victor00" /> </p>
