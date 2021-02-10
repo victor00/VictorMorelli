@@ -83,7 +83,7 @@
 ## &#x1f4c8; GitHub Stats
 <p>
   <a href="https://github.com/victor00">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor00&layout=compact&langs_count=10" /> 
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor00&hide=html&layout=compact&langs_count=10" /> 
   </a>
   <br> <br>
   <a href="https://github.com/victor00">
