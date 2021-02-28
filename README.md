@@ -55,6 +55,7 @@
 <code>![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)</code> &nbsp;&nbsp;
 <code>![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)</code> &nbsp;&nbsp;
 <code>![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)</code> &nbsp;&nbsp;
+<code>![Tensorflow](https://img.shields.io/badge/Tensorflow-white?style=flat&logo=tensorflow&logoColor=orange)</code> &nbsp;&nbsp;
 
 # Languages
 
@@ -62,7 +63,6 @@
 <code>![Python](https://img.shields.io/badge/Python-white?style=flat&logo=python)</code> &nbsp;&nbsp;
 <code>![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat&logo=ruby&logoColor=red)</code> &nbsp;&nbsp;
 <code>![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white)</code> &nbsp;&nbsp;
-<code>![Tensorflow](https://img.shields.io/badge/Tensorflow-white?style=flat&logo=tensorflow&logoColor=orange)</code> &nbsp;&nbsp;
 
 ### Database
 
