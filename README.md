@@ -9,7 +9,7 @@
 - 💼 &nbsp; Improving my skills everyday.
 - 🌱 &nbsp; Learning more about Machine Learning, Artificial Intelligence, Deep Learning and Full Stack Web Development.
 - ✍️ &nbsp; Pursuing knowledge to make incredible dynamic apps, and an Open Source enthusiast.
-- **Hobbies :** Books :books: | Music :headphones
+- **Hobbies :** Books :books: | Music :headphones:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <p align="left"> 
