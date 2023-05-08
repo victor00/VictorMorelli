@@ -17,11 +17,6 @@
 
 <hr>
 
-<p align="left"> 
-	<a href="https://github.com/victor00">
-		<img src="https://komarev.com/ghpvc/?username=victor00" alt="page views" />
-	</a> 
-</p>
 
 <h3>🤝 Connect with Me</h3>
 <br>
@@ -44,6 +39,11 @@
 <br>
 <br>
 Thanks for stopping by!
+<p align="left"> 
+	<a href="https://github.com/victor00">
+		<img src="https://komarev.com/ghpvc/?username=victor00" alt="page views" />
+	</a> 
+</p>
 <hr>
 
 <h2 align="left">Technologies & Tools</h2>
