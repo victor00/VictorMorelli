@@ -52,7 +52,6 @@ Thanks for stopping by!
 <hr>
 
 <h2 align="left">Technologies & Tools</h2>
-> Tools, languages, and other things that I like to work with.
 
 ### Frontend
 
