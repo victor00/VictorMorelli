@@ -6,6 +6,8 @@
 	<h2 align="center"> Hi there! 👋 </h2>
 	<h4 align="center"> I'm Victor Morelli, a passionate software engineer based in São Paulo, Brazil. I'm always on the lookout for new technologies and opportunities to develop innovative software solutions. </h4>
 
+<br>
+	
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 <ul>
