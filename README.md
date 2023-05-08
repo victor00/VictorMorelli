@@ -22,21 +22,22 @@
 <br>
   
 <p>
-<a href="https://github.com/victor00">
-	<img align="left" alt="victor00github" width="22px" src="https://img.icons8.com/color/48/000000/github--v1.png" />
+<a href="https://github.com/victor00" style="display:inline-block;width:30px;height:30px;">
+  <img align="left" alt="victor00github" width="30px" height="30px" src="https://img.icons8.com/color/48/000000/github--v1.png" />
 </a>
 	
-<a href="https://www.linkedin.com/in/avictor-ribeiro-morelli/">
-  <img align="left" alt="victorlinkedin" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" style="max-width:100%;">
+<a href="https://www.linkedin.com/in/avictor-ribeiro-morelli/" style="display:inline-block;width:30px;height:30px;">
+  <img align="left" alt="victorlinkedin" width="30px" height="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
 </a>
 
-<a href="https://www.kaggle.com/avrmvictor00">
-    <img align="left" alt="Victor's Kaggle" width="22px" src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
+<a href="https://www.kaggle.com/avrmvictor00" style="display:inline-block;width:30px;height:30px;">
+  <img align="left" alt="Victor's Kaggle" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" />
 </a>
 
-<a href="https://www.hackerrank.com/victormorelli6">
-    <img align="left" alt="Victor's Hackerrank" width="22px" src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
+<a href="https://www.hackerrank.com/victormorelli6" style="display:inline-block;width:30px;height:30px;">
+  <img align="left" alt="Victor's Hackerrank" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Hackerrank_meaningful_logo.svg" />
 </a>
+
 
 </p>
 
