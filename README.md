@@ -1,44 +1,50 @@
-
-<h2 align="center"> Hi there! 👋 </h2>
-<h4 align="center"> I'm Victor Morelli, a passionate software engineer based in São Paulo, Brazil. I'm always on the lookout for new technologies and opportunities to develop innovative software solutions. </h4>
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+	<h2 align="center"> Hi there! 👋 </h2>
+	<h4 align="center"> I'm Victor Morelli, a passionate software engineer based in São Paulo, Brazil. I'm always on the lookout for new technologies and opportunities to develop innovative software solutions. </h4>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-* 💼 Currently working as a full stack developer, with over 5 years of experience in software development
-* 🌱 Passionate about learning new things and staying up-to-date with the latest technologies and industry trends
-* ✍️ Love to write clean, scalable, and maintainable code, and a big fan of open source development
-* **Hobbies :** Books :books: | Music :headphones:
+<ul>
+	<li>💼 Currently working as a full stack developer, with over 5 years of experience in software development</li>
+	<li>🌱 Passionate about learning new things and staying up-to-date with the latest technologies and industry trends</li>
+	<li>✍️ Love to write clean, scalable, and maintainable code, and a big fan of open source development</li>
+	<li><strong>Hobbies :</strong> Books 📚 | Music 🎧</li>
+</ul>
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<hr>
+
 <p align="left"> 
-  <a href="https://github.com/victor00">
-    <img src="https://komarev.com/ghpvc/?username=victor00" alt="page views" />
-  </a> 
+	<a href="https://github.com/victor00">
+		<img src="https://komarev.com/ghpvc/?username=victor00" alt="page views" />
+	</a> 
 </p>
 
-
-### 🤝 Connect with Me
+<h3>🤝 Connect with Me</h3>
 <br>
+  
 <p>
-  <a href="https://github.com/victor00">
-    <img align="left" alt="victor00github" width="22px" src= "https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="max-width:100%;">
-  </a>
-  <a href="https://www.linkedin.com/in/avictor-ribeiro-morelli/">
-    <img align="left" alt="victorlinkedin" width="22px" src= "https://camo.githubusercontent.com/d659d2bac00c01b42bffbae84bdc121e828b8fecd5b4949ffa2575f5d9e4a371/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" style="max-width:100%;">
-  </a>
-  <a href="https://www.kaggle.com/avrmvictor00">
-    <img align="left" alt="Victor's Kaggle" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
-  </a>
-  <a href="https://www.hackerrank.com/victormorelli6">
-    <img align="left" alt="Victor's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-  </a>
+	<a href="https://github.com/victor00">
+		<img align="left" alt="victor00github" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="max-width:100%;fill:red;">
+	</a>
+	<a href="https://www.linkedin.com/in/avictor-ribeiro-morelli/">
+		<img align="left" alt="victorlinkedin" width="22px" src="https://camo.githubusercontent.com/d659d2bac00c01b42bffbae84bdc121e828b8fecd5b4949ffa2575f5d9e4a371/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" style="max-width:100%;">
+	</a>
+	<a href="https://www.kaggle.com/avrmvictor00">
+		<img align="left" alt="Victor's Kaggle" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
+	</a>
+	<a href="https://www.hackerrank.com/victormorelli6">
+		<img align="left" alt="Victor's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+	</a>
 </p>
 
 <br>
 <br>
 Thanks for stopping by!
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<hr>
 
 <h2 align="left">Technologies & Tools</h2>
 > Tools, languages, and other things that I like to work with.
