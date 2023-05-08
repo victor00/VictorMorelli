@@ -17,7 +17,7 @@
 </p>
 
 
-### You can connect with me:
+### 🤝 Connect with Me
 
 <p>
   <a href="https://github.com/victor00">
