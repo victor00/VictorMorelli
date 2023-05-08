@@ -1,6 +1,6 @@
 
 <h2 align="center"> Hello World!  :love_you_gesture: </h2>
-<h4 align="center"> I'm Victor Morelli and I'm a software engineer. I'm from Brazil, living in São Paulo </h4>
+<h4 align="center"> Hey there, I'm Victor Morelli, a passionate software engineer from Brazil. I'm currently living in the bustling city of São Paulo, where I have been honing my skills in software development </h4>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
