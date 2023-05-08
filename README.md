@@ -1,7 +1,6 @@
 
-<h2 align="center"> Hello World!  :love_you_gesture: </h2>
-<h4 align="center"> Hey there, I'm Victor Morelli, a passionate software engineer from Brazil. </h4>
-<h5 align="center"> I'm currently living in the bustling city of São Paulo, where I have been honing my skills in software development</h5>
+<h2 align="center"> Hi there! 👋 </h2>
+<h4 align="center"> I'm Victor Morelli, a passionate software engineer based in São Paulo, Brazil. I'm always on the lookout for new technologies and opportunities to develop innovative software solutions. </h4>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
