@@ -18,7 +18,7 @@
 
 
 ### 🤝 Connect with Me
-
+<br>
 <p>
   <a href="https://github.com/victor00">
     <img align="left" alt="victor00github" width="22px" src= "https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="max-width:100%;">
