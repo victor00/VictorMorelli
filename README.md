@@ -4,12 +4,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; B.Sc. in Computer Science at Mackenzie Presbyterian University.
-- 💼 &nbsp; Improving my skills everyday.
-- 🌱 &nbsp; Learning more about Machine Learning, Artificial Intelligence, Deep Learning and Full Stack Web Development.
-- ✍️ &nbsp; Pursuing knowledge to make incredible dynamic apps, and an Open Source enthusiast.
-- **Hobbies :** Books :books: | Music :headphones:
+* 💼 Currently working as a full stack developer, with over 5 years of experience in software development
+* 🌱 Passionate about learning new things and staying up-to-date with the latest technologies and industry trends
+* ✍️ Love to write clean, scalable, and maintainable code, and a big fan of open source development
+* **Hobbies :** Books :books: | Music :headphones:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <p align="left"> 
