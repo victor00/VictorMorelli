@@ -18,7 +18,7 @@
 	<li>✍️ Love to write clean, scalable, and maintainable code, and a big fan of open source development</li>
 	<li><strong>Hobbies :</strong> Books 📚 | Music 🎧</li>
 	<li>
-	   <strong>My favorite quote that drives me in life:</strong>
+	   <strong>My favorite quote that drives me in life is:</strong>
 	  <blockquote>
 	    <p>"We cannot solve our problems with the same thinking we used when we created them." - Albert Einstein</p>
 	  </blockquote>
