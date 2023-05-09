@@ -6,6 +6,8 @@
 	<h2 align="center"> Hi there! 👋 </h2>
 	<h4 align="center"> I'm Victor Morelli, a passionate software engineer based in São Paulo, Brazil. I'm always on the lookout for new technologies and opportunities to develop innovative software solutions. </h4>
 
+
+
 <br>
 	
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -15,6 +17,9 @@
 	<li>🌱 Passionate about learning new things and staying up-to-date with the latest technologies and industry trends</li>
 	<li>✍️ Love to write clean, scalable, and maintainable code, and a big fan of open source development</li>
 	<li><strong>Hobbies :</strong> Books 📚 | Music 🎧</li>
+	<li>
+	  <strong>Philosophy of life:</strong> "We cannot solve our problems with the same thinking we used when we created them." - Albert Einstein
+	</li>
 </ul>
 
 <hr>
