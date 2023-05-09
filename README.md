@@ -13,7 +13,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 <ul>
-	<li>💼 Currently working as a full stack developer, with over 5 years of experience in software development</li>
+	<li>💼 Currently working as a full stack developer, with over 2 years of experience in software development</li>
 	<li>🌱 Passionate about learning new things and staying up-to-date with the latest technologies and industry trends</li>
 	<li>✍️ Love to write clean, scalable, and maintainable code, and a big fan of open source development</li>
 	<li><strong>Hobbies :</strong> Books 📚 | Music 🎧</li>
