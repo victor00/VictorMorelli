@@ -12,15 +12,13 @@
 	
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-<ul>
-	<li>💼 Currently working as a full stack developer, with over 5 years of experience in software development</li>
-	<li>🌱 Passionate about learning new things and staying up-to-date with the latest technologies and industry trends</li>
-	<li>✍️ Love to write clean, scalable, and maintainable code, and a big fan of open source development</li>
-	<li><strong>Hobbies :</strong> Books 📚 | Music 🎧</li>
-	<li>
-	  <strong>Philosophy of life:</strong> "We cannot solve our problems with the same thinking we used when we created them." - Albert Einstein
-	</li>
-</ul>
+{
+  "Job": "Currently working as a full stack developer, with over 2 years of experience in software development",
+  "Passion": "Passionate about learning new things and staying up-to-date with the latest technologies and industry trends",
+  "Code": "Love to write clean, scalable, and maintainable code, and a big fan of open source development",
+  "Hobbies": "Books 📚 | Music 🎧",
+  "Quote": "My favorite quote that drives me in life: 'We cannot solve our problems with the same thinking we used when we created them.' - Albert Einstein"
+}
 
 <hr>
 
