@@ -40,15 +40,6 @@
   <img align="left" alt="victorlinkedin" width="30px" height="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
 </a>
 
-<a href="https://www.kaggle.com/avrmvictor00" style="display:inline-block;width:30px;height:30px;">
-  <img align="left" alt="Victor's Kaggle" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" />
-</a>
-
-<a href="https://www.hackerrank.com/victormorelli6" style="display:inline-block;width:30px;height:30px;">
-  <img align="left" alt="Victor's Hackerrank" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Hackerrank_meaningful_logo.svg" />
-</a>
-
-
 </p>
 
 <br>
